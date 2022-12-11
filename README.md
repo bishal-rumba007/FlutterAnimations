@@ -1,16 +1,16 @@
 # cool_stuff
+A flutter project demonstrating Flutter animation and other cool features.
 
-A new Flutter project.
+## Things to know
 
-## Getting Started
+This project comprises of custom made effects along with packages and plugins from pub.dev
 
-This project is a starting point for a Flutter application.
+These are the resources that I've used in this project
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter Parallax cook book](https://docs.flutter.dev/cookbook)
+- [Flutter carousel plugin](https://pub.dev/packages/carousel_slider)
+- [Flutter parallax plugin](https://pub.dev/packages/parallax)
+- [Flutter shimmer plugin](https://pub.dev/packages/shimmer)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For any enquiry please reach out to me
+[mail](lite1bishal@gmail.com)
