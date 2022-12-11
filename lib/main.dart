@@ -2,8 +2,6 @@ import 'package:cool_stuff/parralax/custom_parralax.dart';
 import 'package:flutter/material.dart';
 
 
-const Color cyanCustom = Color(0xffcc4abd9c);
-
 void main(){
   runApp(const MyApp());
 }
@@ -19,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: cyanCustom),
+      theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: const Color(0XFF07162e)),
       debugShowCheckedModeBanner: false,
       home: const Scaffold(
         body: Center(
