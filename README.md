@@ -14,3 +14,6 @@ These are the resources that I've used in this project
 
 For any enquiry please reach out to me
 [mail](lite1bishal@gmail.com)
+
+## Sneak peek:
+<img src="images/parallax.png" width="300">
