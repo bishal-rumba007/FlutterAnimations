@@ -10,7 +10,6 @@ class Location {
   final String imageUrl;
 }
 
-
 const locations = [
   Location(
     name: 'Everest Base Camp',
@@ -48,3 +47,48 @@ const locations = [
     imageUrl: 'https://suggestnepal.com/wp-content/uploads/2014/08/8134260194_5307e80a99_z.jpg',
   ),
 ];
+
+/* This model is for asset images of guitars
+class Location {
+  const Location({
+    required this.name,
+    required this.place,
+    required this.imageUrl,
+  });
+
+  final String name;
+  final String place;
+  final String imageUrl;
+}
+
+
+const locations = [
+  Location(
+    name: 'Everest Base Camp',
+    place: 'Nepal',
+    imageUrl: 'assets/guitar1.jpg',
+  ),
+  Location(
+    name: 'Chitwan National Park',
+    place: 'Chitwan',
+    imageUrl: 'assets/guitar2.jpg',
+  ),
+  Location(
+    name: 'Sarangkot',
+    place: 'Pokhara',
+    imageUrl: 'assets/guitar3.jpg',
+  ),
+  Location(
+    name: 'Everest Base Camp',
+    place: 'Nepal',
+    imageUrl: 'assets/guitar4.jpg',
+  ),
+  Location(
+    name: 'Chitwan National Park',
+    place: 'Chitwan',
+    imageUrl: 'assets/guitar5.jpg',
+  ),
+
+];
+
+ */

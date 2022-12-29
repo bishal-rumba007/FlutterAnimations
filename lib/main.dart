@@ -1,4 +1,6 @@
 import 'package:cool_stuff/parralax/custom_parralax.dart';
+import 'package:cool_stuff/view/date_page.dart';
+import 'package:cool_stuff/view/androidDate_picker.dart';
 import 'package:flutter/material.dart';
 
 
@@ -19,11 +21,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: const Color(0XFF07162e)),
       debugShowCheckedModeBanner: false,
-      home: const Scaffold(
-        body: Center(
-          child: CustomParralax(),
-        ),
-      ),
+      home: const DatePage(),
     );
   }
 }
